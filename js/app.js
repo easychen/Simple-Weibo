@@ -189,7 +189,7 @@ function init( callback )
 // ============================
 function change_page( page )
 {
-	location = page + '.html';
+	window.open( page + '.html' ) ;
 }
 
 function change_card( cid )
