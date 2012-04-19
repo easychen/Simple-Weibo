@@ -1,0 +1,3 @@
+简微】是一个特别简单的微博客户端。
+只包含OAuth登录，查看微博，查看@ 的功能。该客户端是新浪SAE移动云平台为向开发者展示其微博插件而提供的DEMO。
+说明文档： http://ftqq.com/2012/04/18/build-a-weibo-client-using-phonegap/
